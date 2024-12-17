@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color:#F9F4D9; /* Set your desired background color */
+  margin: 0; /* Remove default body margin */
+  padding: 10; /* Remove default body padding */
+}
